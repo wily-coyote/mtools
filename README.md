@@ -1,12 +1,9 @@
-# mugenext
-Extracts files from Elecbyte data files.
+# mtools
+Tools to work with Elecbyte data files.
 
 ## Building
-This project uses CMake to build its executables.
+This project uses Makefile to build its executables.
 
 ```sh
-mkdir build
-cd build
-cmake ..
-cmake --build .
+make
 ```

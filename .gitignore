@@ -1,1 +1,7 @@
-build/
+*.o
+*.exe
+fnt2pcx
+pcx2fnt
+snd2wav
+commentr
+commentw
